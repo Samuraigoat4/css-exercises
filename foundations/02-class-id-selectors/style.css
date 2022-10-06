@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(207, 101, 101);
+    font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+
+#id1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.oddish: {
+    font-size= 24px;
+}
+
+#id2 {
+    background-color: rgb(101, 207, 101);
+    font-size: 24px;
+    font-weight: 700;
+}
